@@ -40,6 +40,6 @@ int main() {
         diff = abs(tsum - sum);
     }
 
-    cout << "n = " << n << " \n arctg(x)= " << tsum << " \n Сумма ряда: " << sum << " \n Разница: " << diff << " \n Погрешность (Eps): " << eps << "\n";
+    cout << "n = " << n << " \narctg(x)= " << tsum << " \nСумма ряда: " << sum << " \nРазница: " << diff << " \nПогрешность (Eps): " << eps << "\n";
     return 0;
 }
